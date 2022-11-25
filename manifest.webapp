@@ -1,0 +1,14 @@
+{
+	"name" : "Hola Firefox OS", 
+	"version" : "1.0", 
+	"description" : "App en Firefox OS", 
+	"launch_path" : "/index.html", 
+	"icons" : {
+		"128" : "/img/facebook_128px.png"
+	}, 
+	"developer" : {
+		"name" : "Dani Santos", 
+		"url" : "http://www.mozilla.org/es-MX/firefox/new/"
+	}, 
+	"default_locale" : "es"
+}

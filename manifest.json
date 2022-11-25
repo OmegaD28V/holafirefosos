@@ -1,0 +1,18 @@
+{
+	"name" : "Hola Firefox OS", 
+	"short_name" : "Hola Firefox OS", 
+	"description" : "Hola mundo en Firefox OS", 
+	"theme_color" : "#ffe88a", 
+	"background_color" : "#ffe88a", 
+	"display" : "standalone", 
+	"orientation" : "portrait", 
+	"scope" : "./", 
+	"start_url" : "./", 
+	"icons" : [
+		{
+			"src" : "./img/facebook_512px.png", 
+			"type" : "image/png", 
+			"sizes" : "512x512"
+		}
+	]
+}
